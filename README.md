@@ -1,16 +1,26 @@
-## Hi there 👋
+![DianAgustine Shoujo Banner](path/to/your/custom/banner.png)
 
-<!--
-**dianagustinee/dianagustinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm DianAgustine! ><
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A gentle IT enthusiast and passionate Shoujo manga lover
+On a journey to find my place in the tech world. Let's make things feel whole! 🌱✨
+
+---
+
+### Connect with Me ✨
+<a href="www.linkedin.com/in/dianagustinee"><img src="path/to/linkedin_shoujo_badge.png" height="30" /></a>
+...
+
+---
+
+---
+
+### GitHub Stats ><
+<img src="https://github-readme-stats.vercel.app/api?username=dianagustinee&show_icons=true&theme=soft" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianagustinee&layout=compact&theme=soft" height="150" />
+
+---
+
+### Contribution Graph ><
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dianagustinee&theme=soft" />
