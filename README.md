@@ -1,4 +1,4 @@
-![DianAgustine Shoujo Banner](path/to/your/custom/banner.png)
+![DianAgustine Shoujo Banner](asset/shoujo.jpg)
 
 
 # Hello, I'm DianAgustine! ><
@@ -9,16 +9,9 @@ On a journey to find my place in the tech world. Let's make things feel whole! ð
 ---
 
 ### Connect with Me âœ¨
-<a href="www.linkedin.com/in/dianagustinee"><img src="path/to/linkedin_shoujo_badge.png" height="30" /></a>
-...
+<a href="www.linkedin.com/in/dianagustinee"><img src="asset/meiiyo.png" height="50" /></a>
 
 ---
-
----
-
-### GitHub Stats ><
-<img src="https://github-readme-stats.vercel.app/api?username=dianagustinee&show_icons=true&theme=soft" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianagustinee&layout=compact&theme=soft" height="150" />
 
 ---
 
