@@ -5,9 +5,9 @@
 <h1 align="center">Hello, I'm DianAgustine! *.✧💖*:.</h1>
 
 <p align="center">
-  An Informatics graduate who loves turning complex logic into structured, beautiful digital experiences. ✨<br>
-  I possess a unique blend of technical IT knowledge, strong coordination skills, and high attention to detail. 🚀<br>
-  Currently focused on leveling up my skills in Software QA, Automation, and Web/Mobile Development. 🌱
+  Just a friendly girl who loves chasing bugs and making code look super pretty! 🎀✨<br>
+  Always down to grind on coding projects, but also love organizing fun stuff and keeping things neat. 🎨🔥<br>
+  Currently leveling up my skills in <b>Software QA, Automation,</b> and <b>Web/Mobile App Dev</b>. Let’s connect and share some sweet vibes! 🌱💖
 </p>
 
 ---
